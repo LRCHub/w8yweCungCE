@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ねぇねぇねぇ。",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2025-12-26T08:16:53.194367Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ねぇねぇねぇ。",
+      "artist": "東京フィルハーモニー交響楽団",
+      "has_synced": true,
+      "path": "select/01_ねぇねぇねぇ。_東京フィルハーモニー交響楽団.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ねぇねぇねぇ。 (Live)",
+      "artist": "東京フィルハーモニー交響楽団",
+      "has_synced": true,
+      "path": "select/02_ねぇねぇねぇ。_(Live)_東京フィルハーモニー交響楽団.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ねぇねぇねぇ。 - 2022 Live",
+      "artist": "Tokyo Philharmonic Orchestra",
+      "has_synced": true,
+      "path": "select/03_ねぇねぇねぇ。_-_2022_Live_Tokyo_Philharmonic_Orchestra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねぇねぇねぇ。",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_ねぇねぇねぇ。_ピノキオピー.txt"
+    }
+  ]
+}
